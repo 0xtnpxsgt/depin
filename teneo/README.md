@@ -13,7 +13,7 @@
 - **Auto Ping (setiap 15 menit)**
 - **Support Proxy**
 ## Register Teneo
-- **Download [Ekstension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm)**
+- **Download [Extension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm)**
 - **Open Ektension**
 - **Create Account with email & verif email**
 - **Submit Code `Yua2i` (get 2500 point)**

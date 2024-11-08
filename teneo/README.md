@@ -15,8 +15,8 @@
 ## Register Teneo
 - **Download [Extension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm)**
 - **Open Ektension**
-- **Create Account with email & verif email**
-- **Submit Code `Yua2i` (get 2500 point)**
+- **Create Account with email & verify email**
+- **Submit Code `jCzZA` (get 2500 point)**
 - **Done Run Node with VPS**
 ## Install Node JS & Install Screen (jika belum punya)
 ```

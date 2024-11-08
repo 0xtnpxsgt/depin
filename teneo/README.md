@@ -36,7 +36,7 @@ ufw status
 ```
 ## Download Repository & Install Modules
 ```
-git clone https://github.com/zamzasalim/depin.git
+git clone https://github.com/0xtnpxsgt/depin.git
 ```
 ```
 cd depin/teneo

@@ -1,5 +1,5 @@
 <p style="font-size:14px" align="right">
-<a href="https://discord.gg/UPSfxycf" target="_blank">Join our Discord <img src="</p>![45fc047a4d037ea0e090b341a46ff4e9](https://github.com/user-attachments/assets/72af2a30-7a59-4551-990e-a94c95e6a931)" width="30"/></a>
+<a href="https://discord.gg/UPSfxycf" target="_blank">Join our Discord <img src="[45fc047a4d037ea0e090b341a46ff4e9](https://github.com/user-attachments/assets/72af2a30-7a59-4551-990e-a94c95e6a931)" width="30"/></a>
 
 
 

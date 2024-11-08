@@ -1,6 +1,7 @@
 <p style="font-size:14px" align="right">
-<a href="https://t.me/airdropasc" target="_blank">Join our telegram <img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
-</p>
+<a href="https://discord.gg/UPSfxycf" target="_blank">Join our Discord <img src="</p>![45fc047a4d037ea0e090b341a46ff4e9](https://github.com/user-attachments/assets/72af2a30-7a59-4551-990e-a94c95e6a931)" width="30"/></a>
+
+
 
 <p align="center">
   <img height="300" height="auto" src="https://user-images.githubusercontent.com/109174478/209359981-dc19b4bf-854d-4a2a-b803-2547a7fa43f2.jpg">
